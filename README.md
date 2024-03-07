@@ -7,4 +7,4 @@ This api is used to obtain x-acf-sensor-data of akamai APP.
 
 contact me: https://t.me/shineho
 
-update: 2024-01-16
+update: 2024-03-08
